@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 # Latent Degradation Representation Constraint for Single Image Deraining (ICASSP 2024)
 # Requirements
 * Linux Platform
@@ -23,5 +20,4 @@ Rain13k: The Datasets can be downloaded from [Dataset](https://github.com/kuijia
 
 # Acknowledgement
 The code is based on [MPRNet](https://github.com/swz30/MPRNet). Thanks for the sharing.
-<<<<<<< HEAD
 
